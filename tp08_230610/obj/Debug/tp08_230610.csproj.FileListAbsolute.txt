@@ -1,0 +1,11 @@
+C:\Users\unisanta\source\repos\tp08_230610\tp08_230610\bin\Debug\tp08_230610.exe.config
+C:\Users\unisanta\source\repos\tp08_230610\tp08_230610\bin\Debug\tp08_230610.exe
+C:\Users\unisanta\source\repos\tp08_230610\tp08_230610\bin\Debug\tp08_230610.pdb
+C:\Users\unisanta\source\repos\tp08_230610\tp08_230610\obj\Debug\tp08_230610.csproj.AssemblyReference.cache
+C:\Users\unisanta\source\repos\tp08_230610\tp08_230610\obj\Debug\tp08_230610.csproj.SuggestedBindingRedirects.cache
+C:\Users\unisanta\source\repos\tp08_230610\tp08_230610\obj\Debug\tp08_230610.Form1.resources
+C:\Users\unisanta\source\repos\tp08_230610\tp08_230610\obj\Debug\tp08_230610.Properties.Resources.resources
+C:\Users\unisanta\source\repos\tp08_230610\tp08_230610\obj\Debug\tp08_230610.csproj.GenerateResource.cache
+C:\Users\unisanta\source\repos\tp08_230610\tp08_230610\obj\Debug\tp08_230610.csproj.CoreCompileInputs.cache
+C:\Users\unisanta\source\repos\tp08_230610\tp08_230610\obj\Debug\tp08_230610.exe
+C:\Users\unisanta\source\repos\tp08_230610\tp08_230610\obj\Debug\tp08_230610.pdb
